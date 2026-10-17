@@ -1,0 +1,9 @@
+# raw and cleaned data (download from Kaggle)
+data/
+cleaned/
+*.zip
+*.csv
+
+# notebook and Python caches
+.ipynb_checkpoints/
+__pycache__/
