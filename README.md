@@ -83,7 +83,7 @@ Note: `customers` has one row per order, so state and city percentages are share
 
 ### Data-quality work
 
-I profiled null counts for every column, then investigated each anomaly and logged it with evidence, a decision and a reason. The full log is in [`docs/data_quality_log.md`](docs/data_quality_log.md). The principle throughout: **flag and keep real records; never invent values.**
+I profiled null counts for every column, then investigated each anomaly and logged it with evidence, a decision and a reason. The full log is in [`docs/data_quality_log.md`](data_quality_log.md). The principle throughout: **flag and keep real records; never invent values.**
 
 | # | Issue | Rows | Decision |
 |---|---|---|---|
