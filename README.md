@@ -8,8 +8,7 @@ Orders that arrive after the estimated delivery date are far more likely to rece
 
 **Headline result:** late orders are **6.7x more likely to get a bad review** (62.4% unhappy vs 9.3% for on-time orders).
 
-![Delivery and reviews dashboard](<img width="1173" height="663" alt="Screenshot 2026-10-17 220756" src="https://github.com/user-attachments/assets/5291cce6-a6e8-40d7-b5a5-5d9cd039bedc" />
-)
+![Delivery and reviews dashboard](<img width="1173" height="663" alt="Screenshot 2026-10-17 220756" src="https://github.com/user-attachments/assets/5291cce6-a6e8-40d7-b5a5-5d9cd039bedc" />)
 
 ## Key findings
 
